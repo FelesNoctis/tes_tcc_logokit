@@ -204,10 +204,10 @@ hydejack:
   # Note that this works in the PRO version of Hydejack.
   dark_mode:
     # Set to `true` to always use the dark theme.
-    always:            false
+    always:            true
 
     # Set to `true` to use the dark theme based on visitors' local time.
-    dynamic:           true
+    dynamic:           false
     sunrise:           6
     sunset:            18
 
